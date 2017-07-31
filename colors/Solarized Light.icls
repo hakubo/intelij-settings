@@ -1,9 +1,15 @@
 <scheme name="Solarized Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="2.5" />
-  <option name="EDITOR_FONT_SIZE" value="38" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+    <option name="EDITOR_FONT_SIZE" value="38" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="38" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Iosevka" />
   <option name="CONSOLE_FONT_SIZE" value="34" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
