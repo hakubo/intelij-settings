@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -10,24 +12,25 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.mxml</mask>
       <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.scs</mask>
-      <mask>*.iphp</mask>
-      <mask>*.i18php</mask>
-      <mask>*.i18nphp</mask>
-      <mask>*.i18n.php</mask>
-      <mask>*..php</mask>
+      <mask>*.mxml</mask>
+      <mask>*.mxm</mask>
+      <mask>*.mx</mask>
+      <mask>*.m</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.php</mask>
+      <mask>*.hb</mask>
+      <mask>*.hbs</mask>
+      <mask>!*.hbs</mask>
+      <mask>!*.hb</mask>
+      <mask>!*.h</mask>
+      <mask>!*.</mask>
+      <mask>!*.json</mask>
     </recentFileMasks>
   </component>
 </application>
