@@ -1,0 +1,13 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-01-26T22:00:48</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-01-26T22:04:24</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="40" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+</scheme>

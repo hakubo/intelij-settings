@@ -1,0 +1,78 @@
+<code_scheme name="Default (1)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+  </CssCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="CoffeeScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Dart">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
+    <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
