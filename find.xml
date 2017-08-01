@@ -5,15 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php,!*.tmpl.php" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
@@ -29,8 +22,21 @@
       <mask>!*.hbs</mask>
       <mask>!*.hb</mask>
       <mask>!*.h</mask>
-      <mask>!*.</mask>
       <mask>!*.json</mask>
+      <mask>!*.js</mask>
+      <mask>!*.j</mask>
+      <mask>!*.</mask>
+      <mask>!*.php</mask>
+      <mask>*.php</mask>
+      <mask>*.php,</mask>
+      <mask>*.php,!</mask>
+      <mask>*.php,!*</mask>
+      <mask>*.php,!*.</mask>
+      <mask>*.php,!*.tm</mask>
+      <mask>*.php,!*.tmp</mask>
+      <mask>*.php,!*.tmpl</mask>
+      <mask>*.php,!*.tmpl.</mask>
+      <mask>*.php,!*.tmpl.php</mask>
     </recentFileMasks>
   </component>
 </application>
